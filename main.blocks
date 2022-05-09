@@ -1,0 +1,25 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="+]oAv27#uzonKDSCYRw:" x="566" y="-78"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="O2OZ4RjiJfZ(~~R0hAMC"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        . . # . . 
+        . . # . . 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="Oh+]GkM8I?Gw_?bfgH24"><field name="LEDS">`
+        # . . . # 
+        . # # # . 
+        . # # # . 
+        . # # # . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="|e2o|y`4m7{f#3m6g=3L"><field name="LEDS">`
+        . . . # . 
+        . # . # . 
+        # # # # . 
+        . # . # . 
+        # . # . .
+        `</field><next><block type="device_show_leds" id="_`9mVUONwz|`w:@FZtmh"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        . . # . . 
+        # # # # # 
+        # # . # #
+        `</field></block></next></block></next></block></next></block></statement></block><block type="device_forever" id="?/KFA+]cuje2FW!A%jKG" x="784" y="-89"/><block type="pxt-on-start" id="z5UXJ#1Ct{tMkILG^@7P" x="0" y="0"><statement name="HANDLER"><block type="device_print_message" id="(K|9GL!v_|RvcgUwtr=#"><value name="text"><shadow type="text" id="jNzB99I:VnueF[)ZM~j0"><field name="TEXT">Hi my name is Marko</field></shadow></value><next><block type="device_print_message" id="3vtOKoWC~iW3RP4:xc7N"><value name="text"><shadow type="text" id="sFJ_}W}wVm8!7)GC#ua6"><field name="TEXT">I have a dog</field></shadow></value><next><block type="device_print_message" id="lY7|Ny.QzT}3w2wE|2L7"><value name="text"><shadow type="text" id="hpB_f+bk-4)#pHU~$|=q"><field name="TEXT">his name is jerry</field></shadow></value><next><block type="device_print_message" id="KbBMd|l*-rfw*/|qZvP{"><value name="text"><shadow type="text" id="x^frV}rZ)^1@.qIOepJn"><field name="TEXT">one day me and jerry went on for a walk</field></shadow></value><next><block type="device_print_message" id="a7pK!Vd5.Fo+K%0~ffP:"><value name="text"><shadow type="text" id="P-E0^I5X~$?Sa_]kp*/*"><field name="TEXT">until we came across this man with a lightsaber in his back pocket</field></shadow></value><next><block type="device_print_message" id="R?9FX:QQ55JrXu@U}I$C"><value name="text"><shadow type="text" id="g@Q7~Q4E8qUImxl8D?V2"><field name="TEXT">Marko needed to have a rest because they have been for a walk for 2 hours</field></shadow></value><next><block type="device_print_message" id="FvVL~Nh`|SkOe%f1@)Af"><value name="text"><shadow type="text" id=":)*X{/UXG[lXzd~HR}AN"><field name="TEXT">when suddenly he was soooooo tired that he fell asleep</field></shadow></value><next><block type="device_print_message" id="rw|Rvt)z3frBv?uRQ+YF"><value name="text"><shadow type="text" id="KC2|$Dw78pJ7k3Im}Zq8"><field name="TEXT">then the person with a lightsaber stole Marko's dog and drove home</field></shadow></value><next><block type="device_print_message" id="7lM*^kvR}Y^R_E[4Cd,*"><value name="text"><shadow type="text" id="#[IJ`l$f)8C1`41kld:~"><field name="TEXT"/></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
